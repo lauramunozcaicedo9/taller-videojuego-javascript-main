@@ -1,1 +1,2 @@
-# taller-videojuego-javascript-main
+# taller-videojuego-javascript
+Taller práctico para hacer un videojuego en Javascript
